@@ -243,3 +243,14 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Temp/UnityLockfile
+/Assets/kai/table/k194_table02/Materials/s.mat
+/Assets/kai/table/k194_table02/Textures
+*.prefab
+*.mat
+*.jpg
+*.png
+*.tif
+*.psd
+/Library/metadata
+/Library
